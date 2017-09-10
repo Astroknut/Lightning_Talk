@@ -12,6 +12,8 @@
 
 ###### 'Components' && @extends/@yield
 
+###### csrf tokens & form data
+
 ### Resources
 * Documentation: [docs](https://laravel.com/docs/5.5)
 * Laracasts: [tutorial](https://laracasts.com/series/laravel-from-scratch-2017)
