@@ -7,3 +7,7 @@
 ###### Laravel, Valet, PHP Artisan
 
 ###### Templating and Blade
+
+###### MVC in Laravel
+
+###### 'Components' && @extends/@yield
